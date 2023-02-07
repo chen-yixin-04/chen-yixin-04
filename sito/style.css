@@ -2,6 +2,7 @@ img {
     border-radius: 10%;
     width: 600px;
     height:400px;
+    ;
 }
 
 h1 { display:flex;
@@ -32,3 +33,7 @@ h2 {
     color: blueviolet;
 }
 
+.sfondo {
+    background-color: antiquewhite;
+    margin: 0%;
+}
